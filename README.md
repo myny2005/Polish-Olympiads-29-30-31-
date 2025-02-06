@@ -2,8 +2,7 @@
 
 ### In this repo there are my codes from POI (Polish Olympiad in Informatics)
 
-They're exact the same codes I submitted. They might be difficult to read but during the Olympiad readabilityof the code is
-much less important (due to a lack of time) than correct implementation and obviously the score ;)
+These are the exact same codes I submitted. They might be difficult to read, but during the Olympiad, code readability is far less important (due to time constraints) than correct implementation—and, of course, the score! ;)
 
 # 29-th Olympiad Problems and points scored:
 
